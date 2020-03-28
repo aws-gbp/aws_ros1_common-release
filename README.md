@@ -1,3 +1,26 @@
+## aws_ros1_common (melodic) - 2.0.1-2
+
+The packages in the `aws_ros1_common` repository were released into the `melodic` distro by running `/usr/local/bin/bloom-release aws_ros1_common --track melodic --rosdistro melodic -e` on `Sat, 28 Mar 2020 00:39:19 -0000`
+
+The `aws_ros1_common` package was released.
+
+Version of package(s) in repository `aws_ros1_common`:
+
+- upstream repository: https://github.com/aws-robotics/utils-ros1.git
+- release repository: https://github.com/aws-gbp/aws_ros1_common-release.git
+- rosdistro version: `2.0.1-1`
+- old version: `2.0.1-1`
+- new version: `2.0.1-2`
+
+Versions of tools used:
+
+- bloom version: `0.9.3`
+- catkin_pkg version: `0.4.16`
+- rosdep version: `0.18.0`
+- rosdistro version: `0.8.0`
+- vcstools version: `0.1.42`
+
+
 ## aws_ros1_common (kinetic) - 2.0.1-2
 
 The packages in the `aws_ros1_common` repository were released into the `kinetic` distro by running `/usr/local/bin/bloom-release aws_ros1_common --track kinetic --rosdistro kinetic -e` on `Sat, 28 Mar 2020 00:34:55 -0000`
