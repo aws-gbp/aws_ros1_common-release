@@ -1,5 +1,0 @@
-repositories:
-  utils-ros1:
-    type: git
-    url: https://github.com/aws-robotics/utils-ros1
-    version: release-latest
